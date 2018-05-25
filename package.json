@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "apollographql/apollo-client"
+    "url": "homelike/apollo-client"
   },
   "keywords": [
     "ecmascript",
